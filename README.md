@@ -38,4 +38,4 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=axisting&show_icons=true&locale=en&layout=compact" alt="axisting" /></p>
-![snake gif](https://github.com/axisting/axisting/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/axisting/axisting/blob/output/github-contribution-grid-snake.svg)
