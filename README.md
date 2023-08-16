@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.discordapp.com/attachments/828387941327044608/1141466014664630292/flutter_android_ios_banner_axisting.png)
+![MasterHead](https://cdn.discordapp.com/attachments/828387941327044608/1141471157808287884/flutter_kotlin_multiplatform_axisting.png)
 
 <h1 align="center">Hi 👋, I'm Volkan</h1>
 <h3 align="center">Mobile Application Developer / Computer Engineer</h3>
