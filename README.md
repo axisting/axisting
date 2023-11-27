@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Flutter, Kotlin, Mobile Apps, Video Edit,**
 
-- 📫 How to reach me **info@axisting.com**
+- 📫 My main project is in Bitbucket private repository.. For other repositories and other questions, How to reach me **info@axisting.com**
 
 - 📄 Know about my experiences [https://volkan.axisting.com/volkan-demir-cv/](https://volkan.axisting.com/volkan-demir-cv/)
 
