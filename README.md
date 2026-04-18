@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Volkan 👋</h1>
-<h3 align="center">Indie Mobile Developer · Flutter · Based in Antalya, Türkiye</h3>
+<h3 align="center">Indie Mobile Developer · Flutter · Based in Antalya, Turkey</h3>
 
 <p align="center">
-  Building mobile products for a global audience 'focused on Flutter', clean architecture, and shipping real apps that solve real problems.
+  Building mobile products for a global audience, focused on Flutter, clean architecture, and shipping real apps that solve real problems.
 </p>
 
 <p align="center">
@@ -16,19 +16,19 @@
 
 ### About
 
-I'm a **Computer Engineer** and independent mobile developer with a focus on **Flutter**. I design, build, and publish apps end-to-end — from idea and UX to release on the App Store and Google Play. My work spans productivity tooling, gamified habit systems, and industry-specific solutions.
+I'm a Computer Engineer and independent mobile developer with a focus on **Flutter**. I design, build, and publish apps end-to-end, from idea and UX to release on the App Store and Google Play. My work spans productivity tooling, gamified habit systems, and industry-specific solutions.
 
 - 🚀 Currently shipping **Habit Score Tracker** on iOS and Android
 - 🛠 Building and maintaining **Livestock Manager** for farm and livestock operations
 - 🧠 Exploring AI-assisted development workflows and content generation pipelines
-- ✍️ Writing about mobile development at [axisting.com/blog](https://axisting.com/blog/)
+- 🏢 Building mobile products under **[Axistia](https://axistia.org)**, my indie studio
 
 ---
 
 ### 🌟 Featured Projects
 
 #### 📱 Habit Score Tracker
-A gamified habit-tracking app built in Flutter. Turns daily habits into quests with XP, streaks, and score mechanics — designed to make consistency feel rewarding, not punishing.
+A gamified habit-tracking app built in Flutter. Turns daily habits into quests with XP, streaks, and score mechanics, designed to make consistency feel rewarding, not punishing.
 
 **Stack:** Flutter · Dart · Firebase · Riverpod
 **Platforms:** iOS · Android
@@ -91,7 +91,7 @@ A practical management tool for livestock owners and small farms. Tracks animals
 
 ### 📬 Let's Connect
 
-I'm open to collaboration on indie mobile products, Flutter consulting, and interesting gamification or productivity ideas. Private work lives in Bitbucket — for everything else, feel free to reach out.
+I'm open to collaboration on indie mobile products, Flutter consulting, and interesting gamification or productivity ideas. Private work lives in Bitbucket. For everything else, feel free to reach out.
 
 - 📧 **info@axisting.com**
 - 🌐 **[volkan.axisting.com](https://volkan.axisting.com/)**
