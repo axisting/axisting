@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Volkan 👋</h1>
-<h3 align="center">Indie Mobile Developer · Flutter · Based in Antalya, Turkey</h3>
+<h3 align="center">Indie Mobile Developer · Flutter · Based in Antalya, Türkiye</h3>
 
 <p align="center">
-  Building mobile products for a global audience — focused on Flutter, clean architecture, and shipping real apps that solve real problems.
+  Building mobile products for a global audience 'focused on Flutter', clean architecture, and shipping real apps that solve real problems.
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### About
 
-I'm a Computer Engineer and independent mobile developer with a focus on **Flutter**. I design, build, and publish apps end-to-end — from idea and UX to release on the App Store and Google Play. My work spans productivity tooling, gamified habit systems, and industry-specific solutions.
+I'm a **Computer Engineer** and independent mobile developer with a focus on **Flutter**. I design, build, and publish apps end-to-end — from idea and UX to release on the App Store and Google Play. My work spans productivity tooling, gamified habit systems, and industry-specific solutions.
 
 - 🚀 Currently shipping **Habit Score Tracker** on iOS and Android
 - 🛠 Building and maintaining **Livestock Manager** for farm and livestock operations
