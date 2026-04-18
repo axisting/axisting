@@ -1,41 +1,107 @@
-![flutter_kotlin_multiplatform_axisting](https://github.com/axisting/axisting/assets/10004117/88830bcd-6636-4085-97b0-30e37553d9c6)
+<h1 align="center">Hi, I'm Volkan 👋</h1>
+<h3 align="center">Indie Mobile Developer · Flutter · Based in Antalya, Turkey</h3>
 
-<h1 align="center">Hi 👋, I'm Volkan</h1>
-<h3 align="center">Mobile Application Developer / Computer Engineer</h3>
-
-- 🔭 I’m currently working on [Farmer System (Flutter)](https://volkan.axisting.com/farmer-system/)
-
-- 🌱 I’m currently following **new Flutter Updates and trends**
-
-- 👯 I’m looking to collaborate on [Barınapp (Flutter)](https://volkan.axisting.com/my-work/)
-
-- 🤝 I’m looking for help with **Project C (Kotlin to Flutter)**
-
-- 👨‍💻 All of my projects are available at [https://volkan.axisting.com/](https://volkan.axisting.com/)
-
-- 📝 I regularly write articles on [https://axisting.com/blog/](https://axisting.com/blog/)
-
-- 💬 Ask me about **Flutter, Kotlin, Mobile Apps, Video Edit,**
-
-- 📫 My main project is in Bitbucket private repository.. For other repositories and other questions, How to reach me **info@axisting.com**
-
-- 📄 Know about my experiences [https://volkan.axisting.com/volkan-demir-cv/](https://volkan.axisting.com/volkan-demir-cv/)
-
-- ⚡ Video Edit **Adobe Priemere, Capcut, Vegas Pro 15, Microsoft Clipchamp**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/volkan-demir-242157119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="volkan-demir-242157119" height="30" width="40" /></a>
-<a href="https://medium.com/@axisting" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@axisting" height="30" width="40" /></a>
-<a href="https://discord.gg/axisting" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="axisting" height="30" width="40" /></a>
+<p align="center">
+  Building mobile products for a global audience — focused on Flutter, clean architecture, and shipping real apps that solve real problems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://volkan.axisting.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-axisting.com-0A66C2?style=flat-square"></a>
+  <a href="https://linkedin.com/in/volkan-demir-242157119"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:info@axisting.com"><img alt="Email" src="https://img.shields.io/badge/Email-info@axisting.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://medium.com/@axisting"><img alt="Medium" src="https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium&logoColor=white"></a>
+</p>
 
-![snake gif](https://github.com/axisting/axisting/blob/output/github-contribution-grid-snake.svg)
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/axisting"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="axisting" /></a></p><br><br>
+---
 
+### About
 
+I'm a Computer Engineer and independent mobile developer with a focus on **Flutter**. I design, build, and publish apps end-to-end — from idea and UX to release on the App Store and Google Play. My work spans productivity tooling, gamified habit systems, and industry-specific solutions.
 
+- 🚀 Currently shipping **Habit Score Tracker** on iOS and Android
+- 🛠 Building and maintaining **Livestock Manager** for farm and livestock operations
+- 🧠 Exploring AI-assisted development workflows and content generation pipelines
+- ✍️ Writing about mobile development at [axisting.com/blog](https://axisting.com/blog/)
+
+---
+
+### 🌟 Featured Projects
+
+#### 📱 Habit Score Tracker
+A gamified habit-tracking app built in Flutter. Turns daily habits into quests with XP, streaks, and score mechanics — designed to make consistency feel rewarding, not punishing.
+
+**Stack:** Flutter · Dart · Firebase · Riverpod
+**Platforms:** iOS · Android
+
+#### 🐄 Livestock Manager
+A practical management tool for livestock owners and small farms. Tracks animals, health records, breeding cycles, and operational data in a single mobile-first interface.
+
+**Stack:** Flutter · Dart · SQLite · Firebase
+**Platforms:** iOS · Android
+
+> More projects and case studies → [volkan.axisting.com](https://volkan.axisting.com/)
+
+---
+
+### 🧰 Tech Stack
+
+**Mobile & Languages**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+
+**Backend & Data**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-F6820D?style=flat-square&logo=apachehive&logoColor=white)
+
+**Tools & Workflow**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=axisting&show_icons=true&count_private=true&hide_border=true&theme=default" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=axisting&hide_border=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axisting&layout=compact&hide_border=true&theme=default" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img alt="snake gif" src="https://github.com/axisting/axisting/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 📬 Let's Connect
+
+I'm open to collaboration on indie mobile products, Flutter consulting, and interesting gamification or productivity ideas. Private work lives in Bitbucket — for everything else, feel free to reach out.
+
+- 📧 **info@axisting.com**
+- 🌐 **[volkan.axisting.com](https://volkan.axisting.com/)**
+- 💼 **[LinkedIn](https://linkedin.com/in/volkan-demir-242157119)**
+- 📄 **[CV / Experience](https://volkan.axisting.com/volkan-demir-cv/)**
+
+---
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/axisting">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
